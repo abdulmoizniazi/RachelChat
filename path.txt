@@ -1,1 +1,1 @@
-cd /C/Users/Dell/Desktop/RachelChat
+This RachelChat chatbot is build with vite in frontend and fastapi in backend with openAI as LLM and eleven ai used as converter of openai response to voice while openAI whisper is used to convert voice into text response 
