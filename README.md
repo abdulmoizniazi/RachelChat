@@ -46,7 +46,7 @@ RachelChat/
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/RachelChat.git  
+   git clone https://github.com/abdulmoizniazi/RachelChat.git  
    cd RachelChat  
    ```  
 
